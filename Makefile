@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := wifi
+PROJECT_NAME := esp32-wifi
 
 include $(IDF_PATH)/make/project.mk
 
